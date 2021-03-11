@@ -1,6 +1,6 @@
 {
 	"name": "blockchain-plus",
-	"version": "1.0.0",
+	"version": "1.2.3",
 	"description": "more blockchains to win every Bundesausschreibungsverfahren",
 	"main": "index.js",
 	"scripts": {

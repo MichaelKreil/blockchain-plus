@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-plus",
+  "version": "1.0.0",
+  "description": "more blockchains to win every Bundesausschreibungsverfahren",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Michael Kreil",
+  "license": "MIT"
+}

@@ -13,9 +13,9 @@ const blockchainPlus = require('blockchain-plus');
 blockchainPlus(1000); // <- creates 1000 blockchains!!!
 ```
 
-The library even come with a fully fledged test suite!
+The library even comes with a fully fledged test suite!
 
-Yes, you have richtig gelesen!
+Yes, you have richtig gelesen! Watch and staune:
 
 ```sh
 % npm test
@@ -23,5 +23,6 @@ Yes, you have richtig gelesen!
 > blockchain-plus@1.0.0 test
 > node test.js
 
-Yes, it works, probably, irgendwie.
+Yes, it works! 🥦
+(verified with a high security certification broccoli)
 ```

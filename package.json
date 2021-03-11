@@ -3,11 +3,16 @@
 	"version": "1.0.0",
 	"description": "more blockchains to win every Bundesausschreibungsverfahren",
 	"main": "index.js",
-	"scripts": { "test": "node test.js" },
+	"scripts": {
+		"test": "node test.js"
+	},
 	"author": "Michael Kreil",
 	"license": "MIT",
-	"bugs": { "url":"https://github.com/MichaelKreil/blockchain-plus/issues" },
-	"repository": { "type": "git", "url": "https://github.com/MichaelKreil/blockchain-plus" }
+	"bugs": {
+		"url": "https://github.com/MichaelKreil/blockchain-plus/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MichaelKreil/blockchain-plus"
+	}
 }
-
-

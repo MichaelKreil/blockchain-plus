@@ -10,7 +10,7 @@ All you have to do is to require and call this module with the number of blockch
 
 ```js
 const blockchainPlus = require('blockchain-plus');
-blockchainPlus(1000); // <- creates 1000 blockchains!!!
+let blockchains = blockchainPlus(1000); // <- creates 1000 blockchains!!!
 ```
 
 ## Test suite
